@@ -1,0 +1,33 @@
+[index.html](https://github.com/user-attachments/files/22322980/index.html)
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>Primer repositori de NOM COGNOM</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            color: #333;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 50px;
+        }
+        button {
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <p>Aquest és el primer repositori de</p>
+    <button>NOM COGNOM</button>
+</body>
+</html>
